@@ -215,7 +215,6 @@ nav .nav-space {
 }
 .project span {
   background-color:transparent;
-  color:white;
   opacity:0.9;
   position:absolute;
   bottom:10%;
@@ -227,4 +226,10 @@ nav .nav-space {
 }
 .project span {
   opacity:1 !important;
+}
+.project .white {
+  color:white;
+}
+.project .black {
+  color:black;
 }
