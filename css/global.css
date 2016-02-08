@@ -276,10 +276,10 @@ nav .nav-space {
   .me img {
     height:130px;
   }
-  .me h2 {
+  .about h2 {
     font-size:15px;
   }
-  .me p {
+  .about p {
     font-size:10px;
   }
 }
@@ -345,6 +345,9 @@ nav .nav-space {
 @media (max-width:750px) {
   .in.inv {
     height:300px;
+  }
+  .about {
+    width:60%; 
   }
 }
 @media (max-width:500px) {
