@@ -327,6 +327,9 @@ nav .nav-space {
   .about p {
     font-size:20px;
   }
+  .box .contact .email {
+    width:30%;
+  }
 }
 @media (max-width:1000px) {
   .project {
@@ -335,9 +338,23 @@ nav .nav-space {
   .box .contact .email {
     width:40%;
   }
+  .in.inv {
+    height:400px;
+  }
+}
+@media (max-width:750px) {
+  .in.inv {
+    height:300px;
+  }
 }
 @media (max-width:500px) {
   .box .contact .email {
-    width:50%;
+    width:65%;
+  }
+  .in.inv {
+    height:200px;
+  }
+  .footer {
+    margin-top:3%;
   }
 }
