@@ -262,10 +262,10 @@ nav .nav-space {
   height:120px;
 }
 .about h2 {
-  font-size:16px;
+  font-size:18px;
 }
 .about p {
-  font-size:12px;
+  font-size:14px;
 }
 @media (min-width: 768px) {
   .master {
@@ -277,10 +277,10 @@ nav .nav-space {
     height:130px;
   }
   .about h2 {
-    font-size:15px;
+    font-size:18px;
   }
   .about p {
-    font-size:10px;
+    font-size:14px;
   }
 }
 @media (min-width: 992px) {
